@@ -2,7 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
+/* Below code given by Next.js official site */
+
+/* :root {
   --background: #171717;
   --foreground: #ffffff;
 }
@@ -24,4 +26,4 @@ body {
   .text-balance {
     text-wrap: balance;
   }
-}
+} */
